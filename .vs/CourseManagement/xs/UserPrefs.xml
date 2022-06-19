@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{86FBC531-9D1A-45D1-A854-AB4BE01C8187}|Default">
+  <MonoDevelop.Ide.ItemProperties.CourseManagement PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CourseManagement/Startup.cs">
+    <Files>
+      <File FileName="CourseManagement/Startup.cs" Line="111" Column="1" />
+      <File FileName="CourseManagement/Controllers/StudentsController.cs" />
+      <File FileName="CourseManagement/Repository/CourseRepository.cs" />
+      <File FileName="CourseManagement/Repository/ICourseRepository.cs" />
+      <File FileName="CourseManagement/Data/SeedData.cs" />
+      <File FileName="CourseManagement/Controllers/ClassController.cs" />
+      <File FileName="CourseManagement/Repository/ClassRepository.cs" />
+      <File FileName="CourseManagement/Repository/IClassRepository.cs" />
+      <File FileName="CourseManagement/Controllers/CoursesController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CourseManagement" expanded="True">
+            <Node name="CourseManagement" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ahmadsawaed/Projects/CourseManagement/CourseManagement/Middleware/TokenManagerMiddleware.cs" relfile="CourseManagement/Middleware/TokenManagerMiddleware.cs" line="22" column="1" />
+      <Breakpoint file="/Users/ahmadsawaed/Projects/CourseManagement/CourseManagement/Middleware/TokenManagerMiddleware.cs" relfile="CourseManagement/Middleware/TokenManagerMiddleware.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ahmadsawaed/Projects/CourseManagement/CourseManagement/Repository/CourseRepository.cs" relfile="CourseManagement/Repository/CourseRepository.cs" line="50" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
